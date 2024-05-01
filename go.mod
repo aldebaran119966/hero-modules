@@ -1,5 +1,3 @@
-module github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+module github.com/aldebaran119966/hero-modules
 
 go 1.19
-
-require github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.1.2
